@@ -1,0 +1,10 @@
+{
+  "name": "ai-manager-sandbox",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node --check src/index.js",
+    "test": "node --test"
+  }
+}

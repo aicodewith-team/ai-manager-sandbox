@@ -12,3 +12,4 @@
 npm run build
 npm test
 ```
+Phase 1 端到端验证通过

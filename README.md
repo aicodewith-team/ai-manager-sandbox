@@ -12,3 +12,4 @@
 npm run build
 npm test
 ```
+CI rework verification

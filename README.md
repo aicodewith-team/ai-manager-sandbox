@@ -12,3 +12,4 @@
 npm run build
 npm test
 ```
+AI Manager Phase 1 已接入

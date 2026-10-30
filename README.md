@@ -12,3 +12,5 @@
 npm run build
 npm test
 ```
+
+本文件由 AI Manager 沙箱验证更新（PR 链路验证）。
